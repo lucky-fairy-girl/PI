@@ -1,6 +1,6 @@
 # Parentheses Insertion based Sentence-level Text Adversarial Attack
 
-本项目基于 TextAttack 框架开发，提出了一种通过在句子中插入括号来实施句子级对抗攻击的新方法。
+本项目基于 TextAttack 框架开发，提出了一种通过在句子中添加插入语来实施句子级对抗攻击的新方法。
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/b32b7403-628f-4abc-b5dd-c796d1a04c6b" />
 
 ## 环境安装 (Installation)
